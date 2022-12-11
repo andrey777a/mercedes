@@ -250,7 +250,8 @@ width: 255px;
     max-width: 100%;
     display: block;
     object-fit: cover;
-    margin: 0; align-self: unset;
+    margin: 0 auto;
+    align-self: unset;
 }
 
 
@@ -271,7 +272,7 @@ width: 255px;
 }
 .concept__inner {
     max-width: 900px;
-    margin-left: auto;
+    margin: 0 auto;
 }
 .section__title {
     margin-bottom: 25px;
